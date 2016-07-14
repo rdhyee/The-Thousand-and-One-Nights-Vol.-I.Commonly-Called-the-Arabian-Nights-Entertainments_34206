@@ -40,7 +40,7 @@ deploy:
     - book.mobi
     - book.pdf
   "on":
-    repo: rdhyee/The-Thousand-and-One-Nights-Vol-I-Commonly-Called-the-Arabian-Nights-Entertainments_34206
+    repo: rdhyee/The-Thousand-and-One-Nights-Vol.-I.Commonly-Called-the-Arabian-Nights-Entertainments_34206
 addons:
   apt:
     packages:
